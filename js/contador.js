@@ -35,5 +35,5 @@ const getRemainTime = deadline => {
 	 
 	 
  };
- contador('Tue Apr 30 2019 23:40:00 GMT-0400 (hora de Venezuela)', 'counter'); 
+ contador('Tue May 15 2019 23:40:00 GMT-0400 (hora de Venezuela)', 'counter'); 
   
